@@ -6,6 +6,38 @@
 <!-- Default translations -->
     <tu>
       <tuv lang="EN-US">
+        <seg>A key goal of all enforcement of the GPL-2.0 license has and continues to be bringing companies into compliance with the terms of the license. &lt;t0/&gt;The Kernel Enforcement Statement&lt;t1/&gt; is designed to do just that.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="hfukuchi" changedate="20180423T082349Z" creationid="hfukuchi" creationdate="20180423T082349Z">
+        <seg>GPL 2.0ライセンス遵守の重要なゴールは、企業をライセンス コンプライアンス遵守状態にし続けることです。Kernel Enforcement Statement（https://lkml.org/lkml/2017/10/16/122）は、まさにこれを行うために作られました。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>As Greg always says every year, the kernel continues to change faster this year than the last, this year we were running around 8.5 changes an hour, with 10,000 lines of code added, 2,000 modified, and 2,500 lines removed every hour of every day.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="hfukuchi" changedate="20180423T074850Z" creationid="hfukuchi" creationdate="20180420T091839Z">
+        <seg>毎年いつもグレッグが話していますが、Kernelは今年も引き続き前年より速く変化しました。毎日、毎時間の努力の結果、全体として10,000行のコード追加、2,000行の変更、2,500行の削除がなされ、私たちは1時間あたり約8.5の変更を取り込んだことになります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>At this point, there is no lack of clarity on the base compliance expectations of our community.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="hfukuchi" changedate="20180423T074920Z" creationid="hfukuchi" creationdate="20180423T044712Z">
+        <seg>この点において、私たちのコミュニティが基本的なコンプライアンスについて何を期待しているかは完全に明白です。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Because of this, and to help clarify what the majority of Linux kernel community members feel is the correct way to enforce our license, the &lt;t0/&gt;Technical Advisory Board of the Linux Foundation&lt;t1/&gt; has worked together with lawyers in our community, individual developers, and many companies that participate in the development of, and rely on Linux, to draft a Kernel Enforcement Statement to help address both this specific issue we are facing today, and to help prevent any future issues like this from happening again.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="hfukuchi" changedate="20180423T082408Z" creationid="hfukuchi" creationdate="20180423T075001Z">
+        <seg>上記、および、Linux Kernelコミュニティの大多数のメンバーの思いを明確にすることは、私たちのライセンスを遵守してもらうための正しい方法であるという理由から、Linux FoundationのTechnical Advisory Board（https://www.linuxfoundation.org/about/technical-advisory-board/）は、コミュニティ内の弁護士、個々の開発者およびLinuxの開発や利用を行う多くの企業とともに、Kernel Enforcement Statementを起草しました。これが書かれたのは、私たちが今日直面している具体的な問題に対して意見表明するとともに、将来同じ問題が起きないようにするためです。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>By Greg &lt;t0/&gt;Kroah&lt;t1/&gt;-Hartman, Chris Mason, Rik van Riel, &lt;t2/&gt;Shuah&lt;t3/&gt; Khan, and Grant Likely</seg>
       </tuv>
       <tuv lang="JA" changeid="hfukuchi" changedate="20180418T033236Z" creationid="hfukuchi" creationdate="20180418T033236Z">
@@ -14,10 +46,106 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Community Conferences: &lt;t0/&gt;FSFE Free Software Legal and Licensing Workshop&lt;t1/&gt;, &lt;t2/&gt;FOSDEM&lt;t3/&gt;, &lt;t4/&gt;Open Compliance Summit&lt;t5/&gt;, and others</seg>
+      </tuv>
+      <tuv lang="JA" changeid="hfukuchi" changedate="20180423T060737Z" creationid="hfukuchi" creationdate="20180423T060328Z">
+        <seg>コミュニティ会議：&lt;t0/&gt;FSFE Free Software Legal and Licensing Workshop（https://fsfe.org/activities/ftf/legal-conference.en.html）&lt;t1/&gt;、&lt;t2/&gt;FOSDEM（https://fosdem.org/2018/）&lt;t3/&gt;、&lt;t4/&gt;Open Compliance Summit&lt;t5/&gt; など</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Compliance Communities: &lt;t0/&gt;OpenChain&lt;t1/&gt;, &lt;t2/&gt;SPDX</seg>
+      </tuv>
+      <tuv lang="JA" changeid="hfukuchi" changedate="20180423T060827Z" creationid="hfukuchi" creationdate="20180423T060827Z">
+        <seg>コンプライアンス コミュニティ：&lt;t0/&gt;OpenChain（https://www.openchainproject.org/）&lt;t1/&gt;、&lt;t2/&gt;SPDX（https://spdx.org/）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Compliance Guides: &lt;t0/&gt;Guide to GPL Compliance, Second Edition&lt;t1/&gt;, &lt;t2/&gt;Practical GPL Compliance&lt;t3/&gt;, &lt;t4/&gt;Open Source Compliance in the Enterprise</seg>
+      </tuv>
+      <tuv lang="JA" changeid="hfukuchi" changedate="20180423T060558Z" creationid="hfukuchi" creationdate="20180423T060558Z">
+        <seg>コンプライアンス ガイド：&lt;t0/&gt;Guide to GPL Compliance, Second Edition（https://www.softwarefreedom.org/resources/2014/SFLC-Guide_to_GPL_Compliance_2d_ed.html）&lt;t1/&gt;、&lt;t2/&gt;Practical GPL Compliance&lt;t3/&gt;、&lt;t4/&gt;Open Source Compliance in the Enterprise（https://www2.thelinuxfoundation.org/open-source-compliance-ebook）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Even today, 26 years after the initial creation of the Linux kernel, the kernel developer community continues to grow, with more than 500 different companies and over 4,000 different developers getting changes merged into the tree during the past year.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="hfukuchi" changedate="20180420T091952Z" creationid="hfukuchi" creationdate="20180420T091754Z">
+        <seg>過去1年に500以上の企業と4,000人を超える開発者が開発ツリーに変更を加えていることからもわかるように、Linux Kernelが世に出てから26年を経過した今日でさえ、Kernel開発者コミュニティは成長を続けています。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Examples of these claims have been distributing over-the-air firmware, requiring a cell phone maker to deliver a paper copy of source code offer letter; claiming the source code server must be setup with a download speed as fast as the binary server based on the “equivalent access” language of Section 3; requiring the GPL-2.0 to be delivered in a local language; and many others.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="hfukuchi" changedate="20180423T070257Z" creationid="hfukuchi" creationdate="20180423T070257Z">
+        <seg>これらの主張には、（無線通信やWiFiなど）無線によるファームウェア頒布でも、携帯電話機器メーカーはソースコード入手のための書面による申し出を紙で配布する必要がある、第3節の「equivalent access」という用語を根拠に、ソースコード サーバーはバイナリー サーバーと同じダウンロード速度を提供しなくてはならない、GPL 2.0を現地の言語に翻訳して提供することを要求する、など他にも多数ありました。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Further, the &lt;t0/&gt;Netfilter&lt;t1/&gt; community &lt;t2/&gt;suspended Patrick&lt;t3/&gt; from contributing for &lt;t4/&gt;violations of their principles of enforcement&lt;t5/&gt;.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="hfukuchi" changedate="20180423T072119Z" creationid="hfukuchi" creationdate="20180423T071747Z">
+        <seg>さらに、ネットフィルター コミュニティは、コンプライアンス遵守に関する彼らの原理（https://netfilter.org/files/statement.pdf）を破ったという理由で、パトリックがコード貢献できないようにしました。（https://marc.info/?l=netfilter-devel&amp;m=146887464512702）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>How he goes about this activity &lt;t0/&gt;was recently documented very well by Heather Meeker&lt;t1/&gt;.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="hfukuchi" changedate="20180423T070730Z" creationid="hfukuchi" creationdate="20180423T070531Z">
+        <seg>彼がこの活動をどのように続けてきたかは、最近ヘザー ミーカーによって実に良い文書にまとめられました。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>However, he has also made claims based on ambiguities in the GPL-2.0 that no one in our community has ever considered part of compliance.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="hfukuchi" changedate="20180423T074923Z" creationid="hfukuchi" creationdate="20180423T064243Z">
+        <seg>しかしながら、彼はさらに、かつて私たちのコミュニティの誰もコンプライアンスに関係すると考えていなかったGPL 2.0にあるあいまいな点を根拠に権利主張をしました。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>In particular, issues have arisen as a developer from the &lt;t0/&gt;Netfilter&lt;t1/&gt; community, Patrick &lt;t2/&gt;McHardy&lt;t3/&gt;, has sought to enforce his copyright claims in secret and for large sums of money by threatening or engaging in litigation.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="hfukuchi" changedate="20180423T063831Z" creationid="hfukuchi" creationdate="20180423T062820Z">
+        <seg>特に、&lt;t0/&gt;ネットフィルター&lt;t1/&gt; コミュニティ出身の開発者パトリック &lt;t2/&gt;マッカーディ&lt;t3/&gt;が、密かに訴訟を暗示し、時によっては実際に訴訟を起こし、多額の金銭を要求する形で自分の著作権を行使するという問題が起こりました。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Kernel developers in our ecosystem may put their own acknowledgement to the Statement by sending a patch to Greg adding their name to the Statement, like any other kernel patch submission, and it will be gladly merged.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="hfukuchi" changedate="20180423T085815Z" creationid="hfukuchi" creationdate="20180423T085730Z">
+        <seg>私たちのエコシステムのKernel開発者は、他のKernelパッチと同じように、声明（Statement）への彼ら自身による承認をパッチの形でグレッグへ送ることができます。それらは喜んでマージされるでしょう。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Linux Kernel Community Enforcement Statement</seg>
       </tuv>
-      <tuv lang="JA" changeid="hfukuchi" changedate="20180418T033416Z" creationid="hfukuchi" creationdate="20180418T033416Z">
-        <seg>ライセンス遵守に関するLinux Kernelコミュニティ声明</seg>
+      <tuv lang="JA" changeid="hfukuchi" changedate="20180420T090855Z" creationid="hfukuchi" creationdate="20180418T033416Z">
+        <seg>ライセンス遵守に関するLinux Kernelコミュニティによる声明</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Note, a number of questions did come up when this was discussed with the kernel developer community.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="hfukuchi" changedate="20180423T090214Z" creationid="hfukuchi" creationdate="20180423T090214Z">
+        <seg>注：これがKernel開発者コミュニティと議論されたときに、多くの質問が出ました。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Numerous active contributors to the kernel community have tried to reach out to Patrick to have a discussion about his activities, to no response.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="hfukuchi" changedate="20180423T071120Z" creationid="hfukuchi" creationdate="20180423T070752Z">
+        <seg>Kernelコミュニティの多数の開発者たちが、彼の活動について議論するためにパトリックと連絡を取ろうとしましたが、返事はもらえませんでした。</seg>
       </tuv>
     </tu>
     <tu>
@@ -26,6 +154,134 @@
       </tuv>
       <tuv lang="JA" changeid="hfukuchi" changedate="20180418T033014Z" creationid="hfukuchi" creationdate="20180418T033014Z">
         <seg>2017年10月16日 &lt;t0/&gt;木曜日&lt;t1/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Our goals as an ecosystem are to make sure new participants are made aware of those expectations and the materials available to assist them, and to help them grow into our community.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="hfukuchi" changedate="20180423T074923Z" creationid="hfukuchi" creationdate="20180423T050515Z">
+        <seg>エコシステムとしての私たちのゴールは、新規参加者がコミュニティの期待を認識してもらうとともに、彼らを手助けし、私たちのコミュニティの一員になるように促す資料を提供することです。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Please see &lt;t0/&gt;Greg’s FAQ post&lt;t1/&gt; answering the most common ones if you have further questions about this topic.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="hfukuchi" changedate="20180423T090412Z" creationid="hfukuchi" creationdate="20180423T090412Z">
+        <seg>このトピックについて質問があるときには、共通の質問に答えているGreg’s FAQ（http://kroah.com/log/blog/2017/10/16/linux-kernel-community-enforcement-statement-faq/）を見て下さい。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Posted by Greg &lt;t0/&gt;Kroah&lt;t1/&gt;-Hartman&lt;t2/&gt; Oct 16&lt;t3/&gt;th&lt;t4/&gt;, 2017 &lt;t5/&gt; &lt;t6/&gt;enforcement&lt;t7/&gt;, &lt;t8/&gt;kernel&lt;t9/&gt;, &lt;t10/&gt;linux&lt;t11/&gt;, &lt;t12/&gt;statement</seg>
+      </tuv>
+      <tuv lang="JA" changeid="hfukuchi" changedate="20180423T090730Z" creationid="hfukuchi" creationdate="20180423T090529Z">
+        <seg>投稿グレッグ クロー ハートマン 2017年10月16日&lt;t3/&gt;木曜日&lt;t4/&gt;&lt;t6/&gt;enforcement&lt;t7/&gt;, &lt;t8/&gt;kernel&lt;t9/&gt;, &lt;t10/&gt;linux&lt;t11/&gt;, &lt;t12/&gt;statement</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Some of his compliance claims are issues that should and could easily be resolved.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="hfukuchi" changedate="20180423T064127Z" creationid="hfukuchi" creationdate="20180423T064127Z">
+        <seg>彼が主張したコンプライアンス問題のいくつかは、簡単に解決できるもので、そうするべきです。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Some of these activities include:</seg>
+      </tuv>
+      <tuv lang="JA" changeid="hfukuchi" changedate="20180423T060849Z" creationid="hfukuchi" creationdate="20180423T055335Z">
+        <seg>これらの活動は以下を含みます：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The &lt;t6/&gt;Netfilter&lt;t7/&gt; community also &lt;t8/&gt;published their own FAQ on this matter&lt;t9/&gt;.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="hfukuchi" changedate="20180423T072815Z" creationid="hfukuchi" creationdate="20180423T072722Z">
+        <seg>ネットフィルター コミュニティは、この件に関して自分たちで作成したFAQ（https://netfilter.org/licensing.html#faq）を公開しています。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The Linux kernel ecosystem of developers, companies and users has been wildly successful by any measure over the last couple decades.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="hfukuchi" changedate="20180420T091038Z" creationid="hfukuchi" creationdate="20180420T090829Z">
+        <seg>開発者、企業、ユーザーが作り上げているLinux Kernelエコシステム（業界全体のビジネス構造）は、いかなる基準においても、過去20年に渡って異常ともいえる成功を成し遂げています。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The stunning growth and widespread adoption of Linux, however, also requires ever evolving methods of achieving compliance with the terms of our community’s chosen license, the GPL-2.0.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="hfukuchi" changedate="20180423T044252Z" creationid="hfukuchi" creationdate="20180423T044252Z">
+        <seg>しかしながら、Linuxの驚くべき成長と広範囲に渡る採用は、コミュニティが選択したライセンスGPL 2.0の遵守方法の発展をも必要としているのです。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Their ability to rely on this Additional Permission will hopefully re-establish user confidence and help direct enforcement activity back to the original purpose we have all sought over the years – actual compliance.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="hfukuchi" changedate="20180423T084939Z" creationid="hfukuchi" creationdate="20180423T083916Z">
+        <seg>この追加許諾に頼ることができるということが、できればユーザーに自信を回復させ、年来私たちが求めてきた当初の目的、真のコンプライアンス、へとコンプライアンス活動を向ける助けとなるでしょう。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Those authorized to ‘ack’ on behalf of their company may add their company name in (parenthesis) after their name as well.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="hfukuchi" changedate="20180423T090045Z" creationid="hfukuchi" creationdate="20180423T085809Z">
+        <seg>企業を代表して承認する権限を与えられた者は、彼らの名前の後のカッコ内に企業名を追加することができます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Unfortunately the same processes that we use to assure fulfillment of license obligations and availability of source code can also be used unjustly in trolling activities to extract personal monetary rewards.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="hfukuchi" changedate="20180423T062705Z" creationid="hfukuchi" creationdate="20180423T062705Z">
+        <seg>残念ながら、ライセンス義務の履行とソースコード入手を確実にするコンプライアンス プロセスが、同時に、個人的な金銭的利益を稼ぐためのトロール活動（訳注：金銭目的で、自分の持つ著作権等の侵害を理由に企業を訴える行為）に不正に使えるのです。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>While the kernel community has always supported enforcement efforts to bring companies into compliance, we have never even considered enforcement for the purpose of extracting monetary gain.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="hfukuchi" changedate="20180423T073558Z" creationid="hfukuchi" creationdate="20180423T073558Z">
+        <seg>Kernelコミュニティは、企業をコンプライアンス遵守に導く努力をいつも支援してきましたが、コンプライアンス遵守を金銭的利益を得る目的で利用することを考えたことは決してありません。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg> It adopts the same termination provisions we are all familiar with from GPL-3.0 as an Additional Permission giving companies confidence that they will have time to come into compliance if a failure is identified.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="hfukuchi" changedate="20180423T084002Z" creationid="hfukuchi" creationdate="20180423T083708Z">
+        <seg>それは、違反が発見されたときに、コンプライアンス状態へ正すための時間的猶予を企業に与える追加許諾（Additional Permission）として良く知られたGPL 3.0に由来する同じ終了条項を採用しています。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg> It is not possible to know an exact figure due to the secrecy of Patrick’s actions, but we are aware of activity that has resulted in payments of at least a few million Euros.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="hfukuchi" changedate="20180423T074923Z" creationid="hfukuchi" creationdate="20180423T074044Z">
+        <seg> パトリックは密かに活動していますので、正確な数字を知ることはできませんが、活動から少なくとも数百万ユーロを得たと私たちは考えています。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg> Some of us spend a lot of time traveling to different companies all around the world doing this, and lots of other people and groups have been working tirelessly to create practical guides for everyone to learn how to use Linux in a way that is compliant with the license.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="hfukuchi" changedate="20180423T074923Z" creationid="hfukuchi" creationdate="20180423T052654Z">
+        <seg>私たちの中の数名は、これを成すために世界中のさまざまな企業を訪問することに多くの時間を費やしましたし、他の多くの人々は、すべての人がライセンスを遵守しながらLinuxを使う方法を理解できるよう、実績的ガイド作成に不断の努力をしてきました。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg> We are also aware that these actions, which have &lt;t0/&gt;continued for at least four years, have threatened the confidence in our ecosystem.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="hfukuchi" changedate="20180423T075012Z" creationid="hfukuchi" creationdate="20180423T074819Z">
+        <seg>彼の活動は少なくとも4年は継続しており、私たちのエコシステムに対する信頼を脅かしていることを私たちは認識しています。</seg>
       </tuv>
     </tu>
 <!-- Alternative translations -->
