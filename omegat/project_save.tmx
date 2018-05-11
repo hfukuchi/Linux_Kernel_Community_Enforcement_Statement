@@ -16,16 +16,16 @@
       <tuv lang="EN-US">
         <seg>As Greg always says every year, the kernel continues to change faster this year than the last, this year we were running around 8.5 changes an hour, with 10,000 lines of code added, 2,000 modified, and 2,500 lines removed every hour of every day.</seg>
       </tuv>
-      <tuv lang="JA" changeid="hfukuchi" changedate="20180423T074850Z" creationid="hfukuchi" creationdate="20180420T091839Z">
-        <seg>毎年いつもグレッグが話していますが、Kernelは今年も引き続き前年より速く変化しました。毎日、毎時間の努力の結果、全体として10,000行のコード追加、2,000行の変更、2,500行の削除がなされ、私たちは1時間あたり約8.5の変更を取り込んだことになります。</seg>
+      <tuv lang="JA" changeid="hfukuchi" changedate="20180511T022954Z" creationid="hfukuchi" creationdate="20180420T091839Z">
+        <seg>毎年いつもグレッグが話しているように、Kernelは今年も前年より速く変化しました。10,000行のコード追加、2,000行の変更、2,500行の削除という作業が24時間、365日継続されていまして、私たちは1時間あたり約8.5の変更を取り込んだことになります。</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
         <seg>At this point, there is no lack of clarity on the base compliance expectations of our community.</seg>
       </tuv>
-      <tuv lang="JA" changeid="hfukuchi" changedate="20180423T074920Z" creationid="hfukuchi" creationdate="20180423T044712Z">
-        <seg>この点において、私たちのコミュニティが基本的なコンプライアンスについて何を期待しているかは完全に明白です。</seg>
+      <tuv lang="JA" changeid="hfukuchi" changedate="20180510T061658Z" creationid="hfukuchi" creationdate="20180423T044712Z">
+        <seg>この点において、私たちのコミュニティが基本的なコンプライアンスについて期待していることは非常に明快です。</seg>
       </tuv>
     </tu>
     <tu>
@@ -48,56 +48,56 @@
       <tuv lang="EN-US">
         <seg>Community Conferences: &lt;t0/&gt;FSFE Free Software Legal and Licensing Workshop&lt;t1/&gt;, &lt;t2/&gt;FOSDEM&lt;t3/&gt;, &lt;t4/&gt;Open Compliance Summit&lt;t5/&gt;, and others</seg>
       </tuv>
-      <tuv lang="JA" changeid="hfukuchi" changedate="20180423T060737Z" creationid="hfukuchi" creationdate="20180423T060328Z">
-        <seg>コミュニティ会議：&lt;t0/&gt;FSFE Free Software Legal and Licensing Workshop（https://fsfe.org/activities/ftf/legal-conference.en.html）&lt;t1/&gt;、&lt;t2/&gt;FOSDEM（https://fosdem.org/2018/）&lt;t3/&gt;、&lt;t4/&gt;Open Compliance Summit&lt;t5/&gt; など</seg>
+      <tuv lang="JA" changeid="hfukuchi" changedate="20180511T023953Z" creationid="hfukuchi" creationdate="20180423T060328Z">
+        <seg>コミュニティ主催の会議：&lt;t0/&gt;FSFE Free Software Legal and Licensing Workshop（https://fsfe.org/activities/ftf/legal-conference.en.html）&lt;t1/&gt;、&lt;t2/&gt;FOSDEM（https://fosdem.org/2018/）&lt;t3/&gt;、&lt;t4/&gt;Open Compliance Summit&lt;t5/&gt; など</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
         <seg>Compliance Communities: &lt;t0/&gt;OpenChain&lt;t1/&gt;, &lt;t2/&gt;SPDX</seg>
       </tuv>
-      <tuv lang="JA" changeid="hfukuchi" changedate="20180423T060827Z" creationid="hfukuchi" creationdate="20180423T060827Z">
-        <seg>コンプライアンス コミュニティ：&lt;t0/&gt;OpenChain（https://www.openchainproject.org/）&lt;t1/&gt;、&lt;t2/&gt;SPDX（https://spdx.org/）</seg>
+      <tuv lang="JA" changeid="hfukuchi" changedate="20180511T023939Z" creationid="hfukuchi" creationdate="20180423T060827Z">
+        <seg>コンプライアンスに関するコミュニティ：&lt;t0/&gt;OpenChain（https://www.openchainproject.org/）&lt;t1/&gt;、&lt;t2/&gt;SPDX（https://spdx.org/）</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
         <seg>Compliance Guides: &lt;t0/&gt;Guide to GPL Compliance, Second Edition&lt;t1/&gt;, &lt;t2/&gt;Practical GPL Compliance&lt;t3/&gt;, &lt;t4/&gt;Open Source Compliance in the Enterprise</seg>
       </tuv>
-      <tuv lang="JA" changeid="hfukuchi" changedate="20180423T060558Z" creationid="hfukuchi" creationdate="20180423T060558Z">
-        <seg>コンプライアンス ガイド：&lt;t0/&gt;Guide to GPL Compliance, Second Edition（https://www.softwarefreedom.org/resources/2014/SFLC-Guide_to_GPL_Compliance_2d_ed.html）&lt;t1/&gt;、&lt;t2/&gt;Practical GPL Compliance&lt;t3/&gt;、&lt;t4/&gt;Open Source Compliance in the Enterprise（https://www2.thelinuxfoundation.org/open-source-compliance-ebook）</seg>
+      <tuv lang="JA" changeid="hfukuchi" changedate="20180511T024004Z" creationid="hfukuchi" creationdate="20180423T060558Z">
+        <seg>出版されたコンプライアンス ガイド：&lt;t0/&gt;Guide to GPL Compliance, Second Edition（https://www.softwarefreedom.org/resources/2014/SFLC-Guide_to_GPL_Compliance_2d_ed.html）&lt;t1/&gt;、&lt;t2/&gt;Practical GPL Compliance&lt;t3/&gt;、&lt;t4/&gt;Open Source Compliance in the Enterprise（https://www2.thelinuxfoundation.org/open-source-compliance-ebook）</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
         <seg>Even today, 26 years after the initial creation of the Linux kernel, the kernel developer community continues to grow, with more than 500 different companies and over 4,000 different developers getting changes merged into the tree during the past year.</seg>
       </tuv>
-      <tuv lang="JA" changeid="hfukuchi" changedate="20180420T091952Z" creationid="hfukuchi" creationdate="20180420T091754Z">
-        <seg>過去1年に500以上の企業と4,000人を超える開発者が開発ツリーに変更を加えていることからもわかるように、Linux Kernelが世に出てから26年を経過した今日でさえ、Kernel開発者コミュニティは成長を続けています。</seg>
+      <tuv lang="JA" changeid="hfukuchi" changedate="20180510T055031Z" creationid="hfukuchi" creationdate="20180420T091754Z">
+        <seg>この1年で500以上の企業と4,000人を超える開発者がKernel開発ツリーに変更を加えていることからもわかるように、Linux Kernelが世に出てから26年を経過した今日でさえ、Kernel開発者コミュニティは成長を続けています。</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
         <seg>Examples of these claims have been distributing over-the-air firmware, requiring a cell phone maker to deliver a paper copy of source code offer letter; claiming the source code server must be setup with a download speed as fast as the binary server based on the “equivalent access” language of Section 3; requiring the GPL-2.0 to be delivered in a local language; and many others.</seg>
       </tuv>
-      <tuv lang="JA" changeid="hfukuchi" changedate="20180424T043734Z" creationid="hfukuchi" creationdate="20180423T070257Z">
-        <seg>これらには、（無線通信やWiFiなど）無線によるファームウェア頒布でも、携帯電話機器メーカーはソースコード入手のための書面による申し出を紙で配布する必要があるという主張、第3節の「equivalent access」という用語を根拠に、ソースコード サーバーはバイナリー サーバーと同じダウンロード速度を提供しなくてはならないという主張、GPL 2.0を現地の言語に翻訳したものの要求などが含まれますし、他にも多数あります。</seg>
+      <tuv lang="JA" changeid="hfukuchi" changedate="20180511T030322Z" creationid="hfukuchi" creationdate="20180423T070257Z">
+        <seg>これらには、（無線通信やWiFiなど）無線によるファームウェア頒布でも、携帯電話機器メーカーはソースコード入手のための書面による申し出（Written Offer）を紙で配布する必要があるという主張、第3節の「equivalent access」という用語を根拠に、ソースコード サーバーはバイナリー サーバーと同じダウンロード速度を提供しなくてはならないという主張、GPL 2.0の現地語翻訳の要求などが含まれますし、他にも多数あります。</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
         <seg>Further, the &lt;t0/&gt;Netfilter&lt;t1/&gt; community &lt;t2/&gt;suspended Patrick&lt;t3/&gt; from contributing for &lt;t4/&gt;violations of their principles of enforcement&lt;t5/&gt;.</seg>
       </tuv>
-      <tuv lang="JA" changeid="hfukuchi" changedate="20180423T072119Z" creationid="hfukuchi" creationdate="20180423T071747Z">
-        <seg>さらに、ネットフィルター コミュニティは、コンプライアンス遵守に関する彼らの原理（https://netfilter.org/files/statement.pdf）を破ったという理由で、パトリックがコード貢献できないようにしました。（https://marc.info/?l=netfilter-devel&amp;m=146887464512702）</seg>
+      <tuv lang="JA" changeid="hfukuchi" changedate="20180511T030341Z" creationid="hfukuchi" creationdate="20180423T071747Z">
+        <seg>さらに、Netfilterコミュニティは、コンプライアンス遵守に関する彼らの原理（https://netfilter.org/files/statement.pdf）を破ったという理由で、パトリックがコード貢献できないようにしました。（https://marc.info/?l=netfilter-devel&amp;m=146887464512702）</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
         <seg>How he goes about this activity &lt;t0/&gt;was recently documented very well by Heather Meeker&lt;t1/&gt;.</seg>
       </tuv>
-      <tuv lang="JA" changeid="hfukuchi" changedate="20180424T043849Z" creationid="hfukuchi" creationdate="20180423T070531Z">
-        <seg>彼がこの活動をどのように続けてきたかは、最近ヘザー ミーカーによって実に良い文書にまとめられています。</seg>
+      <tuv lang="JA" changeid="hfukuchi" changedate="20180511T030207Z" creationid="hfukuchi" creationdate="20180423T070531Z">
+        <seg>彼がこの活動をどのように続けてきたかは、最近ヘザー ミーカーによって実に良い文書（https://opensource.com/article/17/8/patrick-mchardy-and-copyright-profiteering）にまとめられています。</seg>
       </tuv>
     </tu>
     <tu>
@@ -112,8 +112,8 @@
       <tuv lang="EN-US">
         <seg>In particular, issues have arisen as a developer from the &lt;t0/&gt;Netfilter&lt;t1/&gt; community, Patrick &lt;t2/&gt;McHardy&lt;t3/&gt;, has sought to enforce his copyright claims in secret and for large sums of money by threatening or engaging in litigation.</seg>
       </tuv>
-      <tuv lang="JA" changeid="hfukuchi" changedate="20180424T043231Z" creationid="hfukuchi" creationdate="20180423T062820Z">
-        <seg>特に、&lt;t0/&gt;ネットフィルター&lt;t1/&gt; コミュニティ出身の開発者パトリック &lt;t2/&gt;マッカーディ&lt;t3/&gt;が、訴訟を密かに暗示し、時によっては実際に訴訟を起こし、多額の金銭を要求する形で自分の著作権を行使するという問題が起こりました。</seg>
+      <tuv lang="JA" changeid="hfukuchi" changedate="20180511T024726Z" creationid="hfukuchi" creationdate="20180423T062820Z">
+        <seg>特に、&lt;t0/&gt;Netfilter&lt;t1/&gt; コミュニティ出身の開発者パトリック &lt;t2/&gt;マッカーディ&lt;t3/&gt;（Patrick McHardy）が、訴訟を秘密裏に暗示し、時によっては実際に訴訟を起こし、多額の金銭を要求する形で自分の著作権を行使するという問題が起こりました。</seg>
       </tuv>
     </tu>
     <tu>
@@ -144,8 +144,8 @@
       <tuv lang="EN-US">
         <seg>Numerous active contributors to the kernel community have tried to reach out to Patrick to have a discussion about his activities, to no response.</seg>
       </tuv>
-      <tuv lang="JA" changeid="hfukuchi" changedate="20180423T071120Z" creationid="hfukuchi" creationdate="20180423T070752Z">
-        <seg>Kernelコミュニティの多数の開発者たちが、彼の活動について議論するためにパトリックと連絡を取ろうとしましたが、返事はもらえませんでした。</seg>
+      <tuv lang="JA" changeid="hfukuchi" changedate="20180511T030441Z" creationid="hfukuchi" creationdate="20180423T070752Z">
+        <seg>Kernelコミュニティの多数の開発者たちが、彼の活動について議論するためにパトリック本人と連絡を取ろうとしましたが、返事はもらえませんでした。</seg>
       </tuv>
     </tu>
     <tu>
@@ -160,8 +160,8 @@
       <tuv lang="EN-US">
         <seg>Our goals as an ecosystem are to make sure new participants are made aware of those expectations and the materials available to assist them, and to help them grow into our community.</seg>
       </tuv>
-      <tuv lang="JA" changeid="hfukuchi" changedate="20180424T042922Z" creationid="hfukuchi" creationdate="20180423T050515Z">
-        <seg>エコシステムとしての私たちのゴールは、新規参加者にコミュニティの期待を認識してもらうとともに、彼らを手助けし、私たちのコミュニティの一員になれるように促す資料を提供することです。</seg>
+      <tuv lang="JA" changeid="hfukuchi" changedate="20180510T062055Z" creationid="hfukuchi" creationdate="20180423T050515Z">
+        <seg>エコシステムとしての私たちのゴールは、新しい参加者にコミュニティの期待を認識してもらい、彼らを手助けるとともに私たちのコミュニティの一員になれるように促す資料を提供することです。</seg>
       </tuv>
     </tu>
     <tu>
@@ -184,32 +184,32 @@
       <tuv lang="EN-US">
         <seg>Some of his compliance claims are issues that should and could easily be resolved.</seg>
       </tuv>
-      <tuv lang="JA" changeid="hfukuchi" changedate="20180424T043255Z" creationid="hfukuchi" creationdate="20180423T064127Z">
-        <seg>彼が主張したコンプライアンス問題のいくつかは、解決すべきものであり、簡単に解決できるものです。</seg>
+      <tuv lang="JA" changeid="hfukuchi" changedate="20180511T025404Z" creationid="hfukuchi" creationdate="20180423T064127Z">
+        <seg>彼が主張したコンプライアンス問題のいくつかは解決すべきものですが、それらは簡単に解決できる類のものです。</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
         <seg>Some of these activities include:</seg>
       </tuv>
-      <tuv lang="JA" changeid="hfukuchi" changedate="20180423T060849Z" creationid="hfukuchi" creationdate="20180423T055335Z">
-        <seg>これらの活動は以下を含みます：</seg>
+      <tuv lang="JA" changeid="hfukuchi" changedate="20180511T023729Z" creationid="hfukuchi" creationdate="20180423T055335Z">
+        <seg>これらには以下のような活動があります：</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
         <seg>The &lt;t6/&gt;Netfilter&lt;t7/&gt; community also &lt;t8/&gt;published their own FAQ on this matter&lt;t9/&gt;.</seg>
       </tuv>
-      <tuv lang="JA" changeid="hfukuchi" changedate="20180423T072815Z" creationid="hfukuchi" creationdate="20180423T072722Z">
-        <seg>ネットフィルター コミュニティは、この件に関して自分たちで作成したFAQ（https://netfilter.org/licensing.html#faq）を公開しています。</seg>
+      <tuv lang="JA" changeid="hfukuchi" changedate="20180511T030402Z" creationid="hfukuchi" creationdate="20180423T072722Z">
+        <seg>Netfilterコミュニティは、この件に関して自分たちで作成したFAQ（https://netfilter.org/licensing.html#faq）を公開しています。</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
         <seg>The Linux kernel ecosystem of developers, companies and users has been wildly successful by any measure over the last couple decades.</seg>
       </tuv>
-      <tuv lang="JA" changeid="hfukuchi" changedate="20180424T042843Z" creationid="hfukuchi" creationdate="20180420T090829Z">
-        <seg>開発者、企業、ユーザーが作り上げているLinux Kernelエコシステム（業界全体のビジネス構造）は、いかなる基準においても、過去20年に渡って桁違いの成功を成し遂げています。</seg>
+      <tuv lang="JA" changeid="hfukuchi" changedate="20180510T054937Z" creationid="hfukuchi" creationdate="20180420T090829Z">
+        <seg>開発者、企業、ユーザーが作り上げているLinux Kernelエコシステム（業界全体のビジネス構造）は、いかなる基準においても、過去20年に渡って群を抜いた成功を成し遂げています。</seg>
       </tuv>
     </tu>
     <tu>
@@ -224,8 +224,8 @@
       <tuv lang="EN-US">
         <seg>Their ability to rely on this Additional Permission will hopefully re-establish user confidence and help direct enforcement activity back to the original purpose we have all sought over the years – actual compliance.</seg>
       </tuv>
-      <tuv lang="JA" changeid="hfukuchi" changedate="20180424T044636Z" creationid="hfukuchi" creationdate="20180423T083916Z">
-        <seg>この追加許諾に頼ることができるということが、ユーザーに自信を回復させ、年来私たちが求めてきた当初の目的、つまり真のコンプライアンス、へとコンプライアンス活動を向ける助けとなることを願っています。</seg>
+      <tuv lang="JA" changeid="hfukuchi" changedate="20180511T031029Z" creationid="hfukuchi" creationdate="20180423T083916Z">
+        <seg>この追加許諾に頼ることができるということが、ユーザーに自信を回復させ、年来私たちが求めてきた当初の目的、つまり真のコンプライアンスへとコンプライアンス活動を向ける助けとなることを願っています。</seg>
       </tuv>
     </tu>
     <tu>
@@ -240,8 +240,8 @@
       <tuv lang="EN-US">
         <seg>Unfortunately the same processes that we use to assure fulfillment of license obligations and availability of source code can also be used unjustly in trolling activities to extract personal monetary rewards.</seg>
       </tuv>
-      <tuv lang="JA" changeid="hfukuchi" changedate="20180424T043147Z" creationid="hfukuchi" creationdate="20180423T062705Z">
-        <seg>残念ながら、ライセンス義務の履行とソースコード入手を確実にするコンプライアンス プロセスが、同時に、個人的な金銭的利益を稼ぐためのトロール活動（訳注：自分の持つ著作権の侵害を理由に金銭目的で企業を訴える行為）に不正に使われるのです。</seg>
+      <tuv lang="JA" changeid="hfukuchi" changedate="20180511T025249Z" creationid="hfukuchi" creationdate="20180423T062705Z">
+        <seg>ライセンス義務の履行とソースコード入手を確実にするコンプライアンス プロセスは、残念なことに、個人的な金銭的利益を稼ぐためのトロール活動（訳注：保有する著作権の侵害を理由に金銭目的で企業を訴える行為）に不正に使えるのです。</seg>
       </tuv>
     </tu>
     <tu>
@@ -264,16 +264,16 @@
       <tuv lang="EN-US">
         <seg> It is not possible to know an exact figure due to the secrecy of Patrick’s actions, but we are aware of activity that has resulted in payments of at least a few million Euros.</seg>
       </tuv>
-      <tuv lang="JA" changeid="hfukuchi" changedate="20180423T074923Z" creationid="hfukuchi" creationdate="20180423T074044Z">
-        <seg> パトリックは密かに活動していますので、正確な数字を知ることはできませんが、活動から少なくとも数百万ユーロを得たと私たちは考えています。</seg>
+      <tuv lang="JA" changeid="hfukuchi" changedate="20180511T030904Z" creationid="hfukuchi" creationdate="20180423T074044Z">
+        <seg> パトリックは秘密裏に活動していますので、正確な数字を知ることはできませんが、活動から少なくとも数百万ユーロを得たと私たちは考えています。</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
         <seg> Some of us spend a lot of time traveling to different companies all around the world doing this, and lots of other people and groups have been working tirelessly to create practical guides for everyone to learn how to use Linux in a way that is compliant with the license.</seg>
       </tuv>
-      <tuv lang="JA" changeid="hfukuchi" changedate="20180424T042955Z" creationid="hfukuchi" creationdate="20180423T052654Z">
-        <seg>私たちの中の数名は、この目的で世界中のさまざまな企業を訪問することに多くの時間を費やしましたし、他の多くの人々は、すべての人がライセンスを遵守しながらLinuxを使う方法を理解できるよう、実績的なガイドの作成に不断の努力をしてきました。</seg>
+      <tuv lang="JA" changeid="hfukuchi" changedate="20180511T023131Z" creationid="hfukuchi" creationdate="20180423T052654Z">
+        <seg>私たちの中の数名は、この目的で世界中のさまざまな企業を訪問することに多くの時間を費やしましたし、すべての人がライセンスを遵守しながらLinuxを使う方法を理解できるよう、他の多くの人々が実践的なガイドの作成に不断の努力をしてきました。</seg>
       </tuv>
     </tu>
     <tu>
