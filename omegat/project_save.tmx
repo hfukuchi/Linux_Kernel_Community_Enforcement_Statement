@@ -16,8 +16,8 @@
       <tuv lang="EN-US">
         <seg>As Greg always says every year, the kernel continues to change faster this year than the last, this year we were running around 8.5 changes an hour, with 10,000 lines of code added, 2,000 modified, and 2,500 lines removed every hour of every day.</seg>
       </tuv>
-      <tuv lang="JA" changeid="hfukuchi" changedate="20180511T022954Z" creationid="hfukuchi" creationdate="20180420T091839Z">
-        <seg>毎年いつもグレッグが話しているように、Kernelは今年も前年より速く変化しました。10,000行のコード追加、2,000行の変更、2,500行の削除という作業が24時間、365日継続されていまして、私たちは1時間あたり約8.5の変更を取り込んだことになります。</seg>
+      <tuv lang="JA" changeid="hfukuchi" changedate="20180515T031107Z" creationid="hfukuchi" creationdate="20180420T091839Z">
+        <seg>毎年グレッグが話しているように、Kernelは今年も前年より速く変化しました。24時間365日休まず、10,000行のコード追加、2,000行の変更、2,500行の削除という作業が行われ、私たちは1時間あたり約8.5の変更を取り込んだことになります。</seg>
       </tuv>
     </tu>
     <tu>
@@ -160,8 +160,8 @@
       <tuv lang="EN-US">
         <seg>Our goals as an ecosystem are to make sure new participants are made aware of those expectations and the materials available to assist them, and to help them grow into our community.</seg>
       </tuv>
-      <tuv lang="JA" changeid="hfukuchi" changedate="20180510T062055Z" creationid="hfukuchi" creationdate="20180423T050515Z">
-        <seg>エコシステムとしての私たちのゴールは、新しい参加者にコミュニティの期待を認識してもらい、彼らを手助けるとともに私たちのコミュニティの一員になれるように促す資料を提供することです。</seg>
+      <tuv lang="JA" changeid="hfukuchi" changedate="20180515T031712Z" creationid="hfukuchi" creationdate="20180423T050515Z">
+        <seg>エコシステムとしての私たちのゴールは、新しい参加者にコミュニティの期待を認識してもらい、彼らを手助けするとともに私たちのコミュニティの一員になれるように促す資料を提供することです。</seg>
       </tuv>
     </tu>
     <tu>
