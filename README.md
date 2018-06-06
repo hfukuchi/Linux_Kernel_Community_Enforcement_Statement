@@ -5,6 +5,6 @@
 
 * Greg Kroah-Hartman氏のブログの「Linux Kernel Community Enforcement Statement」を翻訳するProjectです。
 
-## 日本語訳は、reviewフォルダの下をご覧下さい。
+## 日本語訳は、releaseフォルダの下をご覧下さい。
 
-* https://github.com/hfukuchi/Linux_Kernel_Community_Enforcement_Statement/tree/master/review
+* https://github.com/hfukuchi/Linux_Kernel_Community_Enforcement_Statement/tree/master/release
